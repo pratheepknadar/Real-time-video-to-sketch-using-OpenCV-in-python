@@ -2,4 +2,4 @@
 Live webcam video sketch using OpenCV in python
 
 ## Realtime Output Screenshot:
-![](https://github.com/pratheepknadar/Real-time-video-to-sketch-using-OpenCV-in-python/blob/main/Screenshot%20(38).png)
+![](hs://github.com/pratheepknadar/Real-time-video-to-sketch-using-OpenCV-in-python/blob/main/Screenshot%20(38).png)
